@@ -11,7 +11,6 @@
 
 ---
 
-> [!CAUTION]  
 > **📜 Este repositorio es del dueño por
 > chatGPT-bot-MD_07 [licencia propietaria](LICENSE).**  
 [chatGPT-bot-MD_07](https://wa.me/59894393163).

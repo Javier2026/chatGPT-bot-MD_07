@@ -8,23 +8,26 @@ import axios from 'axios'
 import moment from 'moment-timezone' 
 
 global.owner = [
-  [ '50432955554', 'Deylin', true ],
-  [ '15614809253', 'David', true ],
+  [ '59894393163', 'chatGPT-bot-MD_07', true ],
+  [ '59895199851', 'chatGPT-bot-MD_07', true ],
 ['50432441062'],
   ['155968113483985@lid'],
   ['155968113483985'],
 ]; 
 
-global.suittag = ['50488198573'] 
+global.suittag = ['59894393163'] 
 global.sessions = 'Sessions'
 global.jadi = 'JadiBots' 
 global.Jadibts = true
-global.packname = '𝙺𝚒𝚛𝚒𝚝𝚘-𝙱𝚘𝚝 𝙼𝙳';
-global.botname = '𝐾𝑖𝑟𝑖𝑡𝑜-𝐵𝑜𝑡 𝑀𝐷'
-global.author = 'Made By 𝐃𝐞𝐲𝐥𝐢𝐧 -`ღ´-'
+global.packname = 'chatGPT-bot-MD_07';
+global.botname = 'git branch -m main chatGPT-bot-MD
+git fetch origen
+git branch -u origen
+git remoto set-head origin -a 𝑀𝐷'
+global.author = 'Made By.chatGPT-bot-MD_07 -`ღ´-'
 global.dev = '© ρσɯҽɾҽԃ Ⴆყ 𝑫ҽყʅιɳ'
-global.textbot = 'ᴋɪʀɪᴛᴏ-ʙᴏᴛ ᴍᴅ • ꉣꄲꅐꏂꋪꏂ꒯ ꃳꌦ 𝑫𝒆𝒚𝒍𝒊𝒏'
-global.etiqueta = '𝑫𝒆𝒚𝒍𝒊𝒏'
+global.textbot = 'ᴋɪʀɪᴛᴏ-ʙᴏᴛ ᴍᴅ • ꉣꄲꅐꏂꋪꏂ꒯ ꃳꌦ chatGPT-bot-MD_07'
+global.etiqueta = 'chatGPT-bot-MD_07'
 global.ch = {
 ch1: '120363403593951965@newsletter',
 ch2: '120363403593951965@newsletter',

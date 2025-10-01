@@ -20,7 +20,7 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
     };
 
   try {
-    const url = `https://api.kirito.my/api/chatgpt?prompt=${encodeURIComponent(text)}`;
+    const url = `https://api.kirito.my/api/chatgpt?q=${encodeURIComponent(text)}&apikey=by_deylin`;
     const res = await fetch(url);
     const data = await res.json();
 
